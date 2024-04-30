@@ -30,6 +30,7 @@ f(c) = w,
 f(d) = x,
 
 And we can also say: 
+
 $(a, b) \in E_1 \rightarrow (v,y) \in E_2$
 
 $(c, d) \in E_1 \rightarrow (w,x) \in E_2$
